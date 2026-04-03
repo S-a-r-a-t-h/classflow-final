@@ -1,0 +1,20 @@
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+
+# Env files
+.env
+.env.local
+
+# Next.js
+.next/
+
+# Build
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
